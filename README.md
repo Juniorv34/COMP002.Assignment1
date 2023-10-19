@@ -1,1 +1,2 @@
-# COMP002.Assignment1
+Junior Vargas
+Purpose: Lecture activity
